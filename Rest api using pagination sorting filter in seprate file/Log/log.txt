@@ -1,0 +1,4 @@
+A new movie document with name Black Adam has been created by TEST NODE
+A new movie document with name Black Adam has been created by TEST NODE
+A new movie document with name Sample Movie has been created by TEST NODE
+Query took 205 milliseconds to fetch the documentsQuery took 204 milliseconds to fetch the documentsQuery took 223 milliseconds to fetch the documentsA new movie document with name abcs has been created by TEST NODE
